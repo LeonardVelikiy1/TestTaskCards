@@ -1,0 +1,15 @@
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\bin\Debug\net6.0\TestPerfomansLab.exe
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\bin\Debug\net6.0\TestPerfomansLab.deps.json
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\bin\Debug\net6.0\TestPerfomansLab.runtimeconfig.json
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\bin\Debug\net6.0\TestPerfomansLab.dll
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\bin\Debug\net6.0\TestPerfomansLab.pdb
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.csproj.AssemblyReference.cache
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.AssemblyInfoInputs.cache
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.AssemblyInfo.cs
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.csproj.CoreCompileInputs.cache
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.dll
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\refint\TestPerfomansLab.dll
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.pdb
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\TestPerfomansLab.genruntimeconfig.cache
+C:\Users\LeonardVeliky\source\repos\TestPerfomansLab\TestPerfomansLab\obj\Debug\net6.0\ref\TestPerfomansLab.dll
